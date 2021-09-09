@@ -24,11 +24,11 @@ are some of the more popular applications of C++.
 
 Some resources I've found so far include:
 
-[learncpp.com](https://www.learncpp.com/)
-[cplusplus.com](https://www.cplusplus.com/)
-[AspectC++: an aspect-oriented extension to the C++ programming language](https://dl.acm.org/doi/10.5555/564092.564100)
-[C++|Encyclopedia of Computer Science](https://dl.acm.org/doi/10.5555/1074100.1074189)
-[How to teach "modern C++" to someone who already knows programming](https://dl.acm.org/doi/10.1145/3160489.3160503)
+- [learncpp.com](https://www.learncpp.com/)
+- [cplusplus.com](https://www.cplusplus.com/)
+- [AspectC++: an aspect-oriented extension to the C++ programming language](https://dl.acm.org/doi/10.5555/564092.564100)
+- [C++|Encyclopedia of Computer Science](https://dl.acm.org/doi/10.5555/1074100.1074189)
+- [How to teach "modern C++" to someone who already knows programming](https://dl.acm.org/doi/10.1145/3160489.3160503)
 
 Some of these sources are online "courses" teaching C++, and others are articles and journals talking about C++> I think these, as well as other papers
 that can be found on the ACM website will be helpful in learning the language. 
@@ -61,8 +61,8 @@ Multi-line comments start the first line with a forward-slash (/) and an asteris
 
 ## Additional Sources
 
-[https://www.cplusplus.com/info/history/ ](https://www.cplusplus.com/info/history/ )
-[https://www.codecademy.com/resources/blog/what-is-c-plus-plus-used-for/](https://www.codecademy.com/resources/blog/what-is-c-plus-plus-used-for/ )
+- [https://www.cplusplus.com/info/history/ ](https://www.cplusplus.com/info/history/ )
+- [https://www.codecademy.com/resources/blog/what-is-c-plus-plus-used-for/](https://www.codecademy.com/resources/blog/what-is-c-plus-plus-used-for/ )
  
 
 
