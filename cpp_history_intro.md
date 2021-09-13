@@ -21,10 +21,7 @@ Here are some resources/tools to learn C++:
 
 Some of these sources are online "courses" teaching C++, and others are articles and journals talking about C++. This list is of course isn't comprehensive, but a good start. There are many other articles and journals etc. on the [ACM](https://www.acm.org/) website. 
 
-To install the language, I downloaded Eclipse (programming environment) for C/C++.
-[Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-cc-developers)
-
-The seemingly highest recommended environment for compiling and running C++ programs is Eclipse. To install Eclipse and C++, follow the directions on this [website](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-cc-developers). Eclipse can be used on both Mac OS and Windows, so it is a good choice for C++.
+The seemingly highest recommended environment for compiling and running C++ programs is Eclipse. To install Eclipse and C++, follow the directions on this [website](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-cc-developers). Eclipse can be used on Mac OS, Windows and Linux Systems, so it is a good choice for C++.
 
 ### Using Eclipse for C++
 
