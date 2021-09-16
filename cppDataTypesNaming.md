@@ -97,10 +97,10 @@ strongly typed, there are ways to subvert the type system, so it isn't technical
 this argument popped up in multiple places, I found a thread on stack overflow (add link) discussing it. 
 
 ## Sources
-[Source 1 on naming conventions](https://manual.gromacs.org/documentation/5.1-current/dev-manual/naming.html) 
-[Source 2 on naming conventions](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html#names) 
-[Source on variables in C++](https://www.cplusplus.com/doc/tutorial/variables/)
-[C++ strings](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
-[C++ arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
-[C++ maps](https://en.cppreference.com/w/cpp/container/map)
-[Stackoverflow discussing strongly/weakly typed](https://stackoverflow.com/questions/26753483/is-c-considered-weakly-typed-why#:~:text=C%20and%20C%2B%2B%20are%20considered,an%20integer%20as%20a%20pointer.)
+- [Source 1 on naming conventions](https://manual.gromacs.org/documentation/5.1-current/dev-manual/naming.html) 
+- [Source 2 on naming conventions](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html#names) 
+- [Source on variables in C++](https://www.cplusplus.com/doc/tutorial/variables/)
+- [C++ strings](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
+- [C++ arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
+- [C++ maps](https://en.cppreference.com/w/cpp/container/map)
+- [Stackoverflow discussing strongly/weakly typed](https://stackoverflow.com/questions/26753483/is-c-considered-weakly-typed-why#:~:text=C%20and%20C%2B%2B%20are%20considered,an%20integer%20as%20a%20pointer.)
