@@ -51,15 +51,15 @@ in order to use it. To create an Array in C++, follow this example code. This wi
 
 This will create an Array named intArray of size 3, with the integers 1, 2 and 3.
 
-### Maos
+### Maps
 
 C++ has maps, which are equivalent to Python Dictionaries. Maps are made up of key-value pairs. To create a
 map, the type of the keys and values has to be specified when creating the map. Here is an example map:
 
-`	map<string, int> myMap;  //this creates an empty map myMap
-	myMap["key 1"] = 1; //this adds a key named "key 1", and it's value, 1
-	myMap["key 2"] = 2;
-	myMap["key 3"] = 3;`
+`map<string, int> myMap;  //this creates an empty map myMap`
+`myMap["key 1"] = 1; //this adds a key named "key 1", and it's value, 1`
+`myMap["key 2"] = 2;`
+`myMap["key 3"] = 3;`
 
 ## Naming Conventions
 
