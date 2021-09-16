@@ -97,9 +97,9 @@ strongly typed, there are ways to subvert the type system, so it isn't technical
 this argument popped up in multiple places, I found a thread on stack overflow (add link) discussing it. 
 
 ## Sources
-- [Source 1 on naming conventions](https://manual.gromacs.org/documentation/5.1-current/dev-manual/naming.html) 
-- [Source 2 on naming conventions](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html#names) 
-- [Source on variables in C++](https://www.cplusplus.com/doc/tutorial/variables/)
+- [Naming conventions(1)](https://manual.gromacs.org/documentation/5.1-current/dev-manual/naming.html) 
+- [Naming conventions(2)](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html#names) 
+- [C++ variables](https://www.cplusplus.com/doc/tutorial/variables/)
 - [C++ strings](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
 - [C++ arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
 - [C++ maps](https://en.cppreference.com/w/cpp/container/map)
