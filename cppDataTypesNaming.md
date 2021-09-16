@@ -57,8 +57,11 @@ C++ has maps, which are equivalent to Python Dictionaries. Maps are made up of k
 map, the type of the keys and values has to be specified when creating the map. Here is an example map:
 
 `map<string, int> myMap;  //this creates an empty map myMap`
+
 `myMap["key 1"] = 1; //this adds a key named "key 1", and it's value, 1`
+
 `myMap["key 2"] = 2;`
+
 `myMap["key 3"] = 3;`
 
 ## Naming Conventions
