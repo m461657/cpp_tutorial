@@ -77,7 +77,7 @@ underscore.
 
 1. CamelCase should be used for all names across the board, if multiple words are used in the name.
 2. Types like Classes should start with a capital letter
-3. Classes should be names purposefully, and not include "_"
+3. Classes should be named purposefully, and not include "_"
 3. Class attribute names should start with "a"
 3. Function/variable and other names should start with a lowercase letter
 4. Function names should be verbs (because they perform and **action**)
