@@ -22,7 +22,7 @@ Here is an example:
 	}
 	else{
 		System.out.println("not true");
-		}
+	}
 </code></pre>
 
 ### "The dangling else problem"
@@ -36,10 +36,10 @@ ambiguity. To recap, the dangling else problem is this:
 	}
 	if(x == false){
 		System.out.println("false");
-		}
+	}
 	else{
 		System.out.println("not true");
-			}
+	}
 </code></pre>
 
 It is difficult to tell which "if" the else belongs to. In C++, the else is always associated with the
@@ -59,14 +59,14 @@ To define a switch statement:
 <pre><code>int x = 3;
 switch(x){
 	case 1:
-	cout << "It is Sunday";
-	break;
+		cout << "It is Sunday";
+		break;
 	case 7:
-	cout << "It is Saturday";
-	break;
+		cout << "It is Saturday";
+		break;
 	default:
-	cout << "It's not the weekend yet...";
-	break;
+		cout << "It's not the weekend yet...";
+		break;
 }
 </code></pre>
 
