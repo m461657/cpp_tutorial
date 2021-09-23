@@ -42,7 +42,7 @@ else{
 }
 </code></pre>
 
-It is difficult to tell which "if" the else belongs to. In C++, the else is always associated with the
+It is difficult to tell which "if" the "else" belongs to. In C++, the else is always associated with the
 nearest if. So, in the above example, the else would follow the "if(x == false)".
 
 To have the else be associated with the first if statement, enclose the second if in a set of curly 
@@ -92,6 +92,6 @@ short-circuit evaluation.
 
 ## Sources
 
-[Short-circuit evaluation](https://www.geeksforgeeks.org/short-circuiting-in-c-and-linux/) 
-["Dangling else" in C++](http://www.mathcs.emory.edu/~cheung/Courses/561/Syllabus/2-C/dangling-else.html)
-[C++ switch statements](https://www.w3schools.com/cpp/cpp_switch.asp)
+- [Short-circuit evaluation](https://www.geeksforgeeks.org/short-circuiting-in-c-and-linux/) 
+- ["Dangling else" in C++](http://www.mathcs.emory.edu/~cheung/Courses/561/Syllabus/2-C/dangling-else.html)
+- [C++ switch statements](https://www.w3schools.com/cpp/cpp_switch.asp)
