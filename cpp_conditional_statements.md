@@ -16,12 +16,12 @@ To write an if/else statement, the syntax is the same as Java (if you're familia
 
 Here is an example:
 
-<pre><code> boolean x = true;
+<pre><code>boolean x = true;
 	if(x == true){
-	System.out.println("true");
+		System.out.println("true");
 	}
-		else{
-			System.out.println("not true");
+	else{
+		System.out.println("not true");
 		}
 </code></pre>
 
@@ -30,15 +30,15 @@ Here is an example:
 In C++, the "dangling else" problem isn't an issue. The language has a way of handling it to avoid any
 ambiguity. To recap, the dangling else problem is this:
 
-<pre><code> boolean x = true;
+<pre><code>boolean x = true;
 	if(x == true){
 		System.out.println("true");
 	}
-		if(x == false){
-			System.out.println("false");
+	if(x == false){
+		System.out.println("false");
 		}
-			else{
-				System.out.println("not true");
+	else{
+		System.out.println("not true");
 			}
 </code></pre>
 
@@ -56,17 +56,17 @@ Switch statements can be used to compare the switch value to the different cases
 
 To define a switch statement:
 
-<pre><code> int x = 3;
+<pre><code>int x = 3;
 switch(x){
 	case 1:
-		cout << "It is Sunday";
-		break;
+	cout << "It is Sunday";
+	break;
 	case 7:
-		cout << "It is Saturday";
-		break;
+	cout << "It is Saturday";
+	break;
 	default:
-		cout << "It's not the weekend yet...";
-		break;
+	cout << "It's not the weekend yet...";
+	break;
 }
 </code></pre>
 
