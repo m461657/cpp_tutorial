@@ -18,10 +18,10 @@ Here is an example:
 
 <pre><code>boolean x = true;
 if(x == true){
-	System.out.println("true");
+	cout << "true";
 }
 else{
-	System.out.println("not true");
+	cout << "not true";
 }
 </code></pre>
 
@@ -32,13 +32,13 @@ ambiguity. To recap, the dangling else problem is this:
 
 <pre><code>boolean x = true;
 if(x == true){
-	System.out.println("true");
+	cout << "true";
 }
 if(x == false){
-	System.out.println("false");
+	cout << "false";
 }
 else{
-	System.out.println("not true");
+	cout << "not true";
 }
 </code></pre>
 
