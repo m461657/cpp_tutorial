@@ -17,12 +17,12 @@ To write an if/else statement, the syntax is the same as Java (if you're familia
 Here is an example:
 
 <pre><code>boolean x = true;
-	if(x == true){
-		System.out.println("true");
-	}
-	else{
-		System.out.println("not true");
-	}
+if(x == true){
+	System.out.println("true");
+}
+else{
+	System.out.println("not true");
+}
 </code></pre>
 
 ### "The dangling else problem"
@@ -31,15 +31,15 @@ In C++, the "dangling else" problem isn't an issue. The language has a way of ha
 ambiguity. To recap, the dangling else problem is this:
 
 <pre><code>boolean x = true;
-	if(x == true){
-		System.out.println("true");
-	}
-	if(x == false){
-		System.out.println("false");
-	}
-	else{
-		System.out.println("not true");
-	}
+if(x == true){
+	System.out.println("true");
+}
+if(x == false){
+	System.out.println("false");
+}
+else{
+	System.out.println("not true");
+}
 </code></pre>
 
 It is difficult to tell which "if" the else belongs to. In C++, the else is always associated with the
@@ -90,8 +90,8 @@ short-circuit evaluation.
 **note:** the above example is not syntactically correct
 
 
+## Sources
 
-
-https://www.geeksforgeeks.org/short-circuiting-in-c-and-linux/ 
-http://www.mathcs.emory.edu/~cheung/Courses/561/Syllabus/2-C/dangling-else.html
-https://www.w3schools.com/cpp/cpp_switch.asp
+[Short-circuit evaluation](https://www.geeksforgeeks.org/short-circuiting-in-c-and-linux/) 
+["Dangling else" in C++](http://www.mathcs.emory.edu/~cheung/Courses/561/Syllabus/2-C/dangling-else.html)
+[C++ switch statements](https://www.w3schools.com/cpp/cpp_switch.asp)
