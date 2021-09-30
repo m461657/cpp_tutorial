@@ -16,7 +16,7 @@ is checked after the loop is run. For loops run for some specified condition.
 
 In C++, to declare a function, the return type has to be specified when the function is declared. 
 The general syntax for a function is this:
-<pre><code>functionType functionName(parameter...){
+<pre><code>returnType functionName(parameter...){
 	function body;
 }
 </code></pre>
