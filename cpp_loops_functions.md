@@ -16,7 +16,7 @@ is checked after the loop is run. For loops run for some specified condition.
 
 In C++, to declare a function, the return type has to be specified when the function is declared. 
 The general syntax for a function is this:
-<pre><code> functionType functionName(parameter...){
+<pre><code>functionType functionName(parameter...){
 	function body;
 }
 </code></pre>
@@ -35,7 +35,7 @@ a recursive function in the **.cpp** file on loops and functions.
 Functions in C++ can accept multiple parameters, as well as parameters
 of different types. However, they can only return 1 value at a time. There are
 some ways to get around this (using **pointers** seems to be the most common way) 
-You can read more about these methods for returning multiple values from a function [here](https://www.delftstack.com/howto/cpp/return-multiple-values-in-cpp/)
+You can read more about these methods for returning multiple values from a function [here](https://www.delftstack.com/howto/cpp/return-multiple-values-in-cpp/).
 
 ### Pass-by-reference vs. Pass-by-value
 
