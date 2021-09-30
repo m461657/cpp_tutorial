@@ -40,7 +40,7 @@ You can read more about these methods for returning multiple values from a funct
 ### Pass-by-reference vs. Pass-by-value
 
 I had a lot of trouble determining whether C++ is pass-by-reference or value, and when it is either or
-(since it seems to change based on the scenario).There was a lot of conflicting 
+(since it seems to change based on the scenario). There was a lot of conflicting 
 information on this issue, and it seems that it is pass-by-value for everything
 **except** pointers. However, many sources mentioned that there are ways around this,
 so it wasn't totally clear on how C++ is implemented.
