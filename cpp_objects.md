@@ -1,8 +1,3 @@
-• Create an object that inherits from the first object (e.g., Student) with some attributes and
-functions of its own
-• Test how to instantiate both types of objects, call their functions, and modify their variables.
-For your write-up, address the following items:
-
 # Classes, Objects and Inheritance
 
 ## Classes/Objects
