@@ -9,7 +9,7 @@ Classes have attributes and methods.
 
 A very simple [explanation on w3schools](https://www.w3schools.com/cpp/cpp_oop.asp) is that classes are
 templates for objects, and objects are instances of classes. For example, if you had a class Car,
-some Car objects would include Toyota, Honda, and Volvo. These are all **types** of Cars.
+some Car objects would include `Toyota`, `Honda`, and `Volvo`. These are all **types** of Cars.
 
 Classes also can have methods that go along with them. These methods can be called for an object if you want
 to, or can be made as a constructor method, which is automatically called when an object is created.
@@ -32,7 +32,7 @@ by a ";". This is different from defining functions in C++, and is necessary for
 
 ### Naming Conventions
 
-C++ does have recommended (and some enforced) naming conventions for classes and objects.
+C++ does have recommended (and some enforced) naming conventions for classes and objects:
 
 - Class names: Always start with a capital letter, use CamelCase.
 - Class attribute names: Always start with a lower case letter, use camelCase.
