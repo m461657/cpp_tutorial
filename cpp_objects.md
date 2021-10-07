@@ -84,3 +84,4 @@ use based on the input parameters (not the return type).
 # Sources
 - [Cplusplus: inheritance](https://www.cplusplus.com/doc/tutorial/inheritance/)
 - [W3 Schools: inheritance](https://www.w3schools.com/cpp/cpp_pointers.asp)
+- [W3 Schools: pointers](https://www.w3schools.com/cpp/cpp_pointers.asp)
